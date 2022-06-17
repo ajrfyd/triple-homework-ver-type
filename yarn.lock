@@ -4262,6 +4262,11 @@
     "eslint-plugin-react-hooks" "^4.3.0"
     "eslint-plugin-testing-library" "^5.0.1"
 
+"eslint-config-standard-jsx@^11.0.0":
+  "integrity" "sha512-+1EV/R0JxEK1L0NGolAr8Iktm3Rgotx3BKwgaX+eAuSX8D952LULKtjgZD3F+e6SvibONnhLwoTi9DPxN5LvvQ=="
+  "resolved" "https://registry.npmjs.org/eslint-config-standard-jsx/-/eslint-config-standard-jsx-11.0.0.tgz"
+  "version" "11.0.0"
+
 "eslint-config-standard-jsx@10.0.0":
   "integrity" "sha512-hLeA2f5e06W1xyr/93/QJulN/rLbUVUmqTlexv9PRKHFwEC9ffJcH2LvJhMoEqYQBEYafedgGZXH2W8NUpt5lA=="
   "resolved" "https://registry.npmjs.org/eslint-config-standard-jsx/-/eslint-config-standard-jsx-10.0.0.tgz"
@@ -4481,7 +4486,7 @@
     "semver" "^6.3.0"
     "string.prototype.matchall" "^4.0.5"
 
-"eslint-plugin-react@^7.27.1":
+"eslint-plugin-react@^7.27.1", "eslint-plugin-react@^7.28.0":
   "integrity" "sha512-RgwH7hjW48BleKsYyHK5vUAvxtE9SMPDKmcPRQgtRCYaZA0XQPt5FSkrU3nhz5ifzMZcA8opwmRJ2cmOO8tr5A=="
   "resolved" "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.30.0.tgz"
   "version" "7.30.0"
@@ -4589,7 +4594,7 @@
     "normalize-path" "^3.0.0"
     "schema-utils" "^3.1.1"
 
-"eslint@*", "eslint@^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8", "eslint@^3 || ^4 || ^5 || ^6 || ^7 || ^8", "eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0", "eslint@^6.0.0 || ^7.0.0 || ^8.0.0", "eslint@^7.0.0 || ^8.0.0", "eslint@^7.5.0 || ^8.0.0", "eslint@^8.0.0", "eslint@^8.0.1", "eslint@^8.1.0", "eslint@^8.3.0", "eslint@>= 6", "eslint@>=4.19.1", "eslint@>=5", "eslint@>=5.16.0", "eslint@>=7.0.0", "eslint@>=7.28.0":
+"eslint@*", "eslint@^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8", "eslint@^3 || ^4 || ^5 || ^6 || ^7 || ^8", "eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0", "eslint@^6.0.0 || ^7.0.0 || ^8.0.0", "eslint@^7.0.0 || ^8.0.0", "eslint@^7.5.0 || ^8.0.0", "eslint@^8.0.0", "eslint@^8.0.1", "eslint@^8.1.0", "eslint@^8.3.0", "eslint@^8.8.0", "eslint@>= 6", "eslint@>=4.19.1", "eslint@>=5", "eslint@>=5.16.0", "eslint@>=7.0.0", "eslint@>=7.28.0":
   "integrity" "sha512-gq0m0BTJfci60Fz4nczYxNAlED+sMcihltndR8t9t1evnU/azx53x3t2UHXC/uRjcbvRw/XctpaNygSTcQD+Iw=="
   "resolved" "https://registry.npmjs.org/eslint/-/eslint-8.17.0.tgz"
   "version" "8.17.0"
